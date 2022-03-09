@@ -1,7 +1,5 @@
 <h1> Feedback App </h1>
 
-<h3> Setup Steps </h1>
-
 <h2>Prerequisites</h2>
 <ol>
   <li>Python 3 - python3 is used to run the shell scripts.</li>
@@ -9,6 +7,7 @@
   <li> npm - Version - 8.3.1 </li>
 </ol>
 
+<h3> Setup Steps </h1>
 <ol>
     <li>Clone the repo</li>
     <li>cd to the cloned repo using command:<br />
