@@ -12,4 +12,10 @@ code {
     monospace;
 }
 
+.no-link {
+  color:inherit;
+  text-decoration:none;
+  cursor: pointer;
+}
+
 

@@ -7,7 +7,7 @@ class Header extends React.Component {
                 <div className="card-header">
                     <header>
                         <a type="button" className="btn btn-primary float-end" href="add-feedback">Add Feedback</a>
-                        <h2>Feedback App</h2>
+                        <a href='/' className="no-link"><h2>Feedback App</h2></a>
                     </header>
                 </div>
             </div>
