@@ -28,7 +28,7 @@ class AddFeedback extends React.Component {
             body: JSON.stringify(this.state)
         }
         fetch('http://localhost:8000/feedbacks/', requestOptions)
-        .then(<Navigate to="/" replace={true}/>);
+        .then(this.props.history.push('/'));
         event.preventDefault();
     }
 
